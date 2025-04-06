@@ -1,4 +1,25 @@
-## The Process Platform Websites
+<p align="center">
+  <a href="https://github.com/process-co/">
+    <img src="https://github.com/user-attachments/assets/29f60712-e4a5-4939-99d1-48ce048b553e" alt="Logo">
+  </a>
+
+  <h3 align="center">The Process Co</h3>
+
+  <p align="center">
+    Your business already runs. We help it run better.
+    <br />
+    <a href="https://process.co"><strong>Learn more »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/process-co">process-co</a>
+    ·
+    <a href="https://github.com/process-co">process-partners</a>
+    ·
+    <a href="https://github.com/process-co">process-elements</a>
+    ·
+    <a href="https://github.com/process-co">process-charts</a>
+  </p>
+</p>
 
 <!-- Primary Sales & Information Website
 * https://process.co
@@ -14,74 +35,6 @@ Developer Portal and Documentation
 
 Status
 * https://status.process.co -->
-
-## Official Process Platform Code Repos
-
-<table>
-<th align="center">
-<img width="295" height="0">
-<p> 
-<small>
-User Integration 
-</small>
-</p>
-</th>
-<th align="center">
-<img width="295" height="0">
-<p> 
-<small>
-Element Creation
-</small>
-</p>
-</th>
-<th align="center">
-<img width="295" height="0">
-<p> 
-<small>
-Element Registry
-</small>
-</p>
-</th>
-<th align="center">
-<img width="295" height="0">
-<p> 
-<small>
-Helm Charts / Infra
-</small>
-</p>
-</th>
-</tr>
-<tr>
-<td align="center">
-<!-- REMOVE THE BACKSLASHES -->
-  <a href="https://github.com/process-co/">process-co</a>
-</td>
-<td align="center">
-<!-- REMOVE THE BACKSLASHES -->
-  <a href="https://github.com/process-partners/">process-partners</a>
-</td>
-
-  <td align="center">
-<!-- REMOVE THE BACKSLASHES -->
-  <a href="https://github.com/process-elements/">process-elements</a>
-</td>
-  <td align="center">
-<!-- REMOVE THE BACKSLASHES -->
-  <a href="https://github.com/process-charts/">process-charts</a>
-  </td>
-</tr>
-
-</table>  
-
-## process.co - Automation Reference Platform
-
-How to get started
-
-```sh
-  npx process.co
-
-```
-
 
 <!--
 
