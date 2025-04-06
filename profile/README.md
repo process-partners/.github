@@ -13,11 +13,11 @@
     <br />
     <a href="https://github.com/process-co">process-co</a>
     ·
-    <a href="https://github.com/process-co">process-partners</a>
+    <a href="https://github.com/process-partners">process-partners</a>
     ·
-    <a href="https://github.com/process-co">process-elements</a>
+    <a href="https://github.com/process-elements">process-elements</a>
     ·
-    <a href="https://github.com/process-co">process-charts</a>
+    <a href="https://github.com/process-charts">process-charts</a>
   </p>
 </p>
 
